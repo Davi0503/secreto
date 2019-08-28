@@ -1,0 +1,11 @@
+C:\Users\44851410808\Desktop\teste\testeConsole\testeConsole\bin\Debug\netcoreapp2.1\testeConsole.deps.json
+C:\Users\44851410808\Desktop\teste\testeConsole\testeConsole\bin\Debug\netcoreapp2.1\testeConsole.runtimeconfig.json
+C:\Users\44851410808\Desktop\teste\testeConsole\testeConsole\bin\Debug\netcoreapp2.1\testeConsole.runtimeconfig.dev.json
+C:\Users\44851410808\Desktop\teste\testeConsole\testeConsole\bin\Debug\netcoreapp2.1\testeConsole.dll
+C:\Users\44851410808\Desktop\teste\testeConsole\testeConsole\bin\Debug\netcoreapp2.1\testeConsole.pdb
+C:\Users\44851410808\Desktop\teste\testeConsole\testeConsole\obj\Debug\netcoreapp2.1\testeConsole.csprojAssemblyReference.cache
+C:\Users\44851410808\Desktop\teste\testeConsole\testeConsole\obj\Debug\netcoreapp2.1\testeConsole.csproj.CoreCompileInputs.cache
+C:\Users\44851410808\Desktop\teste\testeConsole\testeConsole\obj\Debug\netcoreapp2.1\testeConsole.AssemblyInfoInputs.cache
+C:\Users\44851410808\Desktop\teste\testeConsole\testeConsole\obj\Debug\netcoreapp2.1\testeConsole.AssemblyInfo.cs
+C:\Users\44851410808\Desktop\teste\testeConsole\testeConsole\obj\Debug\netcoreapp2.1\testeConsole.dll
+C:\Users\44851410808\Desktop\teste\testeConsole\testeConsole\obj\Debug\netcoreapp2.1\testeConsole.pdb
