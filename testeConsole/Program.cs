@@ -9,7 +9,7 @@ namespace testeConsole
     class Program
     {
 
-        private static string connectionString = "Data Source=SQL5042.site4now.net;Initial Catalog=DB_A4C3B1_BlockTimeSenai;User Id=DB_A4C3B1_BlockTimeSenai_admin;Password=Da12Tava12;";
+        private static string connectionString = "Data Source=SQL5042.site4now.net;Initial Catalog=DB_A4C3B1_BlockTimeSenai;User Id=DB_A4C3B1_BlockTimeSenai_admin;Password=;";
 
         static void Main(string[] args)
         {
